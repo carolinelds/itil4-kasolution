@@ -190,6 +190,8 @@ Abaixo: Práticas de Gerenciamento da Tecnologia (muito ligadas a DevOps) - 3
 ![image](https://github.com/user-attachments/assets/9a603827-ad10-4fda-befe-86f7eebf5baf)
 Fonte: Ka Solution
 
+Em seguida, comentários sobre alguma das princípais práticas:
+
 ### 9.1 Práticas Gerais de Gerenciamento
 
 Melhoria contínua
@@ -245,11 +247,21 @@ Gerenciamento de Nível de Serviço
 Gerenciamento de Requisição de Serviço
 - o objetivo da prática de gerenciamento de requisição de serviço
 
+### 9.3 Práticas de Gerenciamento de Tecnologia
+
 Controle de Implantação
 - o objetivo da prática de controle de implantação é mover hardware, software, documentação, processos ou qualquer outro componente novo ou alterado para ambientes ativos
 - também pode estar envolvido na implantação de componentes para outros ambientes para teste ou preparação
 - associada a DevOps
 
+## 10. Caso prático
 
+Incidente da CrowdStrike:
+
+![image](https://github.com/user-attachments/assets/0caa3e0b-531c-4948-8774-ad0f9c9e5eca)
+Fonte: Ka Solution
+
+![image](https://github.com/user-attachments/assets/7f1b4ca1-14bf-476a-ba18-732d83e56451)
+Fonte: Ka Solution
 
   
