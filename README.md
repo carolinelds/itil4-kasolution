@@ -1,3 +1,7 @@
+# ITIL 4 - Ka Solution
+
+Anotações do treinamento gratuito sobre ITIL 4 oferecido pela empresa [Ka Solution](https://www.kasolution.com.br/) no dia 20/07/2024.
+
 ## 1. Evolução tecnológica
 
 1784: Indústria 1.0
